@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f9e7b20-7e36-432b-92c8-5bb964ecdc23" name="Changes" comment="Added collision logic">
+    <list default="true" id="2f9e7b20-7e36-432b-92c8-5bb964ecdc23" name="Changes" comment="Finished game logic">
+      <change afterPath="$PROJECT_DIR$/config-feedforward.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Flappy Bird.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flappy Bird.py" afterDir="false" />
     </list>
@@ -142,13 +143,22 @@
       <option name="project" value="LOCAL" />
       <updated>1715675386710</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finished game logic">
+      <option name="closed" value="true" />
+      <created>1715678423482</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715678423482</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Project Initiated" />
     <MESSAGE value="Added collision logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added collision logic" />
+    <MESSAGE value="Finished game logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished game logic" />
   </component>
 </project>
