@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f9e7b20-7e36-432b-92c8-5bb964ecdc23" name="Changes" comment="Finished game logic">
-      <change afterPath="$PROJECT_DIR$/config-feedforward.txt" afterDir="false" />
+    <list default="true" id="2f9e7b20-7e36-432b-92c8-5bb964ecdc23" name="Changes" comment="Added Reinforcement learning">
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flappy Bird.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flappy Bird.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +150,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715678423482</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Reinforcement learning">
+      <option name="closed" value="true" />
+      <created>1715686726009</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715686726009</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added Reinforcement learning">
+      <option name="closed" value="true" />
+      <created>1715686879642</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715686879642</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -159,6 +174,7 @@
     <MESSAGE value="Project Initiated" />
     <MESSAGE value="Added collision logic" />
     <MESSAGE value="Finished game logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished game logic" />
+    <MESSAGE value="Added Reinforcement learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Reinforcement learning" />
   </component>
 </project>
