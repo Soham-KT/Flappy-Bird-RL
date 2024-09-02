@@ -28,3 +28,13 @@ To get started with this project, follow these steps:
    ```bash
    pip install -r requirements.txt
 
+## Customization
+You can customize various aspects of the training process by modifying the config.py file. This includes:
+- Learning rate
+- Discount factor (gamma)
+- Exploration strategy (epsilon decay)
+- Batch size
+- And more...
+
+## Contributing
+Contributions are welcome! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcomed.
