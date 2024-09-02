@@ -22,3 +22,9 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/Soham-KT/Flappy-Bird-RL.git
    cd Flappy-Bird-RL
+
+2. **Install Dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+
